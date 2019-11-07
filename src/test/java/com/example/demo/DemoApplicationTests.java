@@ -7,13 +7,9 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class DemoApplicationTests {
 
-    //000000000000
-//qzxsasd=======
+    //测试冲突
 
-
-    //sssswwwwwwwwwwww
-
-    //=qzx=====sss
+    //111111
     @Test
     void contextLoads() {
     }
